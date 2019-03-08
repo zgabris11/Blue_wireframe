@@ -1,0 +1,134 @@
+.top-row {
+    background-color: #d1dfe8;
+}
+.top-row li{
+    display: inline;
+    padding: 10px;
+    margin: 0;
+}
+.top-row a{
+    color: #97b7cf;
+}
+.top-row ul{
+    text-align: center;
+}
+.intergreen {
+    position: relative;
+    bottom: 5px;
+}
+.green { 
+    margin-top: 10px;
+    text-align: center;
+    text-decoration: none;
+    list-style-type: none;
+}
+.green img{
+    height: 100%;
+    width: 100%;
+}
+.login li{
+    display: inline;
+}
+.login a{
+    color: #97b7cf;
+}
+.login ul{
+    text-align: center;
+}
+.dropbox {
+    padding: 15px 20px;
+}
+.color {
+    background-color: #d1dfe8;
+    padding: 5px 20px;
+    border-radius: 5px;
+}
+.search {
+    text-align: center;
+}
+.slider {
+    text-align: center;
+}
+.banner {
+    text-align: center;
+    margin-top: 10px;
+}
+.banner img{
+    margin-top: 10px;
+}
+.featured {
+    text-align: center;
+    font-size: 25px;
+    color: #6394b8;
+}
+.two {
+    
+}
+.money p{
+    font-size: 15px;
+}
+.add {
+    text-align: center;
+    margin-bottom: 15px;
+}
+.add a{
+    background-color: #6394b8;
+    padding: 10px;
+    border-radius: 2px;
+    color: #97b7cf;
+}
+.newsletter{
+    text-align: center;
+    background-color: #d1dfe8;
+}
+.newsletter li{
+    list-style-type: none;
+}
+.signup{
+    margin-bottom: -10px;
+    position: relative;
+    right: 15px;
+}
+.signup li{
+    list-style-type: none;
+}
+.signup li p{
+    color: #6394b8;
+}
+.media{
+    margin-top: 10px;
+    position: relative;
+    right: 20px;
+}
+.media li{
+    list-style-type: none;
+    display: inline;
+    padding: 10px;
+    
+}
+.media a{
+    padding: 5px;
+    border-radius: 15px;
+    background-color: #6394b8;
+    color: #d1dfe8;
+}
+@media (min-width: 768px) {
+    .top-row li{
+        position: relative;
+        margin: 0;
+        padding: 5px;
+    }
+    .top-row a{
+        position: relative;
+        top: 6px;
+        left: 150px;
+    }
+    .green img{
+        height: 50%;
+        width: 50%;
+    }
+    .green i{
+        position: relative;
+    }
+}
+
